@@ -1,6 +1,7 @@
 # Java_LongSunStr
 
 To find the longest Non Repeated Substring
+The code is here [LongestSubString](./LongestSubstr.java)
 
 Explanation:
 
