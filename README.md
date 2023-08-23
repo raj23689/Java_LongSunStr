@@ -1,4 +1,4 @@
-# Java_LongSunStr
+# Java_LongSubStr
 
 To find the longest Non Repeated Substring.
 
